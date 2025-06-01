@@ -4,8 +4,8 @@ AI-Driven Support Chatbot leverages the robust capabilities of Rasa for structur
 ## 📌 Project Information
 
 - **Version:** 1.1.0  
-- **Author:** Amir  
-- **Repository:** [GitHub Repo]([https://github.com/Amir76717/AI-Driven-Support-Chatbot/edit/main/README.md](https://github.com/Amir76717/AI-Driven-Support-Chatbot/) 
+- **Author:** Sameer
+- **Repository:** [GitHub Repo](https://github.com/Sameer051022/RasaGPT-AI-Powered-Customer-Support-Chatbot/) 
 - **License:** MIT License  
 ---
 
